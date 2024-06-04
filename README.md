@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm George, a seasoned full-stack developer with 4.5 years of hands-on experience in web development. My focus is on creating captivating user experiences through intuitive interfaces. I've worked extensively with various frameworks, including Angular, Vue.js, React, and more recenelty Svelte/SvelteKit, which has become a favorite for its elegance and the speed it brings to my projects.
+
+Alongside my frontend mastery, I'm well-versed in backend technologies, Node.js being my primary tool. Furthermore, I have experience with AWS and serverless architectures, ensuring that my solutions are both efficient and effective.
+
+Beyond coding, I find joy in gaming, strumming my guitar, learning new tools and technologies delving into low-level languages like Rust and C++ as well as game development.
+
+Excited to collaborate and turn your digital visions into reality!
+
 <!--
 **geodask/geodask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
